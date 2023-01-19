@@ -1,0 +1,8 @@
+npm install -g react-native-cli
+react-native init sav
+
+
+npm install -g expo-cli
+expo init AwesomeProject
+
+
